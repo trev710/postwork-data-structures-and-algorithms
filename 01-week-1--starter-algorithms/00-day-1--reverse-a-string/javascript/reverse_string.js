@@ -1,6 +1,11 @@
 function reverseString(str) {
-  // type your code here
+  let reversed = "";
+  for (var i=str.length-1; i>-1;i--){
+    reversed = reversed + str[i];
+  }
+  return reversed
 }
+console.log(reversed('amongus'))
 
 if (require.main === module) {
   // add your own tests in here
