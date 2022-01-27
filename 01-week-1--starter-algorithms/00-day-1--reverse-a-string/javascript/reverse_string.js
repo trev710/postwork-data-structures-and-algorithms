@@ -5,7 +5,7 @@ function reverseString(str) {
   }
   return reversed
 }
-console.log(reversed('amongus'))
+console.log(reversed('amongus') )
 
 if (require.main === module) {
   // add your own tests in here
