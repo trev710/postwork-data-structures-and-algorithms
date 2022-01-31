@@ -64,4 +64,4 @@ module.exports = fibonacci;
  * that enough times (num - 1), once I'm done adding up the values, the last value
  * will be the nth value in the sequence. Every time I add up the two values, I need
  * to remove the 0th value I'm storing and then push the sum onto that array.
-***********************************************************************/
+/
