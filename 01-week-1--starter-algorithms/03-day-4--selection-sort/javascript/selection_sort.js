@@ -80,5 +80,5 @@ module.exports = selectionSort;
  * input, and push it onto another array in order to sort the values. The first time
  * I find the minimum in the input, that's the lowest value, the second time I find
  * the minimum, that's the second lowest value, and so on. Once the input array is  
- * empty, the sorting is complete.
+ * empty, the sorting is complete. yeeshas
  * **************************************************************************/
